@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 import lombok.ToString;
 
 @Entity
-@Table(name="cuentas")
+@Table(name="cuenta")
 @Data   //Generar en tiempo de modificacion
 @NoArgsConstructor  //Genere un constructor VACIO
 @AllArgsConstructor //Genere un constructor con TODOS los atributos
